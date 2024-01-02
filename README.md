@@ -43,6 +43,8 @@ Diff = A ⊕ B ⊕ Bin B = A'Bin + A'B + BBin
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
 
 ```
+Developed by:Oviya N
+Register no:212223040140
 
 HALF SUBTRACTOR:
 module halfsub(a,c,b,d);
